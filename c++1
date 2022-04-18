@@ -1,0 +1,8 @@
+#include<iostrem.h>
+#include<conio.h>
+void main()
+{
+clrscr();
+cout<<"hello sir!";
+getch();
+}
